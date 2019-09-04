@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vg-shop/static/css/main.4673b234.chunk.css",
+    "main.js": "/vg-shop/static/js/main.99f71fc8.chunk.js",
+    "main.js.map": "/vg-shop/static/js/main.99f71fc8.chunk.js.map",
+    "runtime~main.js": "/vg-shop/static/js/runtime~main.addd0b7a.js",
+    "runtime~main.js.map": "/vg-shop/static/js/runtime~main.addd0b7a.js.map",
+    "static/js/2.0b553197.chunk.js": "/vg-shop/static/js/2.0b553197.chunk.js",
+    "static/js/2.0b553197.chunk.js.map": "/vg-shop/static/js/2.0b553197.chunk.js.map",
+    "index.html": "/vg-shop/index.html",
+    "precache-manifest.867f04824fbdc5f30f5609e8377a31de.js": "/vg-shop/precache-manifest.867f04824fbdc5f30f5609e8377a31de.js",
+    "service-worker.js": "/vg-shop/service-worker.js",
+    "static/css/main.4673b234.chunk.css.map": "/vg-shop/static/css/main.4673b234.chunk.css.map"
+  }
+}
